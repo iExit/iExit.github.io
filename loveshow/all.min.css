@@ -10,7 +10,8 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 	display:block
 }
 body {
-	line-height:1
+	line-height:1;
+	background-image: url("img/TfNzRHzmNz.jpg");
 }
 strong,b {
 	font-weight:bold
@@ -697,7 +698,7 @@ body,button {
 	bottom:1em;
 	left:1em;
 	z-index:2;
-	height:40%
+	height:100%
 }
 .page-12 h3 {
 	margin-left:1em;
